@@ -1,0 +1,3 @@
+import sqliteDelet
+
+sqliteDelet.deletar()
